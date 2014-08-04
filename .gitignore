@@ -1,0 +1,12 @@
+build/
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+.DS_Store
+.LSOverride
+.idea/
+.DS_Store
+Pods/
+# Xcode
+xcuserdata/
+*.xccheckout
